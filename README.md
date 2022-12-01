@@ -1,5 +1,5 @@
 # note_3
-This is the manual to generate the answers of the assignment 1 of COMP9102. 
+This is the manual to generate the answers of the assignment 3. 
 1. What are included in the folder of the submission: 
 - The .cmd file to generate the answers 
 - The code in python 
